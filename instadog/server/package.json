@@ -1,0 +1,20 @@
+{
+  "name": "instadogserver",
+  "version": "1.0.0",
+  "description": "server for instadog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaitlyn Flynn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.4.2",
+    "pusher": "^2.2.1"
+  }
+}
